@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora Flex</string>
+
+    <string name="txtView_Title1">Calculadora Flex</string>
+    <string name="txtView_Title2">Gasolina X Álcool</string>
+    <string name="txtView_Title3">Digite os preços</string>
+    <string name="txtView_Title_Alcool">Álcool :</string>
+    <string name="txtView_Title_Gasolina">Gasolina :</string>
+    <string name="button_calcular">Calcular</string>
+    <string name="txtView_resultado">Resultado :</string>
+    <string name="firstValue">0.00</string>
+</resources>
